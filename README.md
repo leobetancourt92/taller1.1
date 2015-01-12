@@ -1,4 +1,4 @@
-taller2Pradera
+taller MVC 1
 ==============
 
-Taller número 2 para el grupo TADSI de Santa Fe (628863)
+Primer taller de implementacion de MVC con PDO con la BD desercion
